@@ -33,4 +33,4 @@ No alinear texto a la derecha.
 - Etiquetas de lista
 
 - Etiqueta `address`
-- etiquetas 
+- etiquetas gi
